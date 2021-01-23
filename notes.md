@@ -1,0 +1,16 @@
+- [ ] Installation
+  - [ ] sudo snap install --classic multipass
+- [ ] multipass
+  - [ ] View available commands
+- [ ] multipass launch --name any-name
+- [ ] multipass list
+  - [ ] View all virtual-machines created
+- [ ] multipass stop the-vm-name
+- [ ] multipass start the-vm-name
+- [ ] multipass shell the-vm-name
+- [ ] multipass delete the-vm-name
+  - [ ] Delete vm
+- [ ] multipass purge
+  - [ ] Remove deleted vms from list
+- [ ] multipass info the-vm-name
+  - [ ] TO view IP address of the vm
